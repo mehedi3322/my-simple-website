@@ -6,6 +6,13 @@
     border-radius:10px;
     
 }
+.Rupok{
+    background-color: aquamarine;
+    margin: 10px;
+    border: 20px dotted rgb(37, 44, 41) ;
+    padding: 10px;
+    border-radius:10px;
+}
 
 /* .list{
     color: aqua;
